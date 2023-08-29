@@ -1,0 +1,17 @@
+/* selector1 selector2{
+
+} */
+
+/* selector1 > selector2{
+
+} */
+
+/* selector1 + selector2{
+
+} */
+
+/* Alt+0126 for ~ */
+
+#xx ~ p{
+    background-color: aqua;
+}
